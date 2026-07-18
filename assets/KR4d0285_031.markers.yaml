@@ -1176,6 +1176,7 @@ markers:
   - {type: line-break, offset: 3590, content: '', id: KR4d0285_WYG_031-13b05}
   - {type: substitution, offset: 3607, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 3610, content: (, id: KR4d0285_krp_031-bkkpn1}
+  - {type: voice, offset: 3610, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3611, content: /, id: KR4d0285_krp_031-bkkpn2}
   - {type: punctuation, offset: 3611, content: ), id: KR4d0285_krp_031-bkkpn3}
   - {type: 'kr:newline', offset: 3611, content: '
@@ -1188,6 +1189,7 @@ markers:
       ', id: KR4d0285_krp_031-bkkkrnewl231}
   - {type: line-break, offset: 3621, content: '', id: KR4d0285_WYG_031-13b07}
   - {type: punctuation, offset: 3621, content: (, id: KR4d0285_krp_031-bkkpn4}
+  - {type: voice, offset: 3621, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3622, content: /, id: KR4d0285_krp_031-bkkpn5}
   - {type: punctuation, offset: 3622, content: ), id: KR4d0285_krp_031-bkkpn6}
   - {type: 'kr:newline', offset: 3642, content: '
@@ -1357,6 +1359,7 @@ markers:
   - {type: line-break, offset: 4292, content: '', id: KR4d0285_WYG_031-15b08}
   - {type: substitution, offset: 4299, original: 粮, replacement: 糧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17638}}
   - {type: punctuation, offset: 4310, content: (, id: KR4d0285_krp_031-bkkpn7}
+  - {type: voice, offset: 4310, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4311, content: /, id: KR4d0285_krp_031-bkkpn8}
   - {type: punctuation, offset: 4311, content: ), id: KR4d0285_krp_031-bkkpn9}
   - {type: 'kr:newline', offset: 4311, content: '
@@ -2408,4 +2411,4 @@ markers:
 
       ', id: KR4d0285_krp_031-bkkkrnewl485}
   back: []
-hash: sha256:50707c6c3959252c500624cbed2543966e8d687753ec49e6198d7e8fc9a22dee
+hash: sha256:57a3742f00643bf1d230ae423cbbeebdea5700fa04234552e891e02e2d435635
